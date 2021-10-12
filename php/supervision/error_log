@@ -1,0 +1,2 @@
+[21-Sep-2021 17:01:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/impulsa/public_html/desk/php/supervision/exp_gestionGE.php on line 73
+[30-Sep-2021 19:31:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/impulsa/public_html/desk/php/supervision/exp_gestionGE.php on line 73

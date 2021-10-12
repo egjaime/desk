@@ -1,0 +1,16 @@
+[07-Oct-2021 20:53:24 UTC] PHP Warning:  mysqli_data_seek() expects parameter 1 to be mysqli_result, boolean given in /home/impulsa/public_html/desk/php/user/gestiondiaria/val_omni_pendientes.php on line 26
+[07-Oct-2021 20:53:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/impulsa/public_html/desk/php/user/gestiondiaria/val_omni_pendientes.php on line 27
+[07-Oct-2021 22:51:49 UTC] PHP Warning:  mysqli_data_seek() expects parameter 1 to be mysqli_result, boolean given in /home/impulsa/public_html/desk/php/user/gestiondiaria/val_tab_elim.php on line 12
+[07-Oct-2021 22:51:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/impulsa/public_html/desk/php/user/gestiondiaria/val_tab_elim.php on line 13
+[09-Oct-2021 04:39:23 UTC] PHP Warning:  mysqli_data_seek() expects parameter 1 to be mysqli_result, boolean given in /home/impulsa/public_html/desk/php/user/gestiondiaria/val_omni_pendientes.php on line 26
+[09-Oct-2021 04:39:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/impulsa/public_html/desk/php/user/gestiondiaria/val_omni_pendientes.php on line 27
+[10-Oct-2021 01:18:38 UTC] PHP Warning:  mysqli_data_seek() expects parameter 1 to be mysqli_result, boolean given in /home/impulsa/public_html/desk/php/user/gestiondiaria/val_omni_pendientes.php on line 26
+[10-Oct-2021 01:18:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/impulsa/public_html/desk/php/user/gestiondiaria/val_omni_pendientes.php on line 27
+[11-Oct-2021 11:26:15 UTC] PHP Warning:  mysqli_data_seek() expects parameter 1 to be mysqli_result, boolean given in /home/impulsa/public_html/desk/php/user/gestiondiaria/val_omni_pendientes.php on line 26
+[11-Oct-2021 11:26:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/impulsa/public_html/desk/php/user/gestiondiaria/val_omni_pendientes.php on line 27
+[11-Oct-2021 11:26:17 UTC] PHP Warning:  mysqli_data_seek() expects parameter 1 to be mysqli_result, boolean given in /home/impulsa/public_html/desk/php/user/gestiondiaria/val_omni_pendientes.php on line 26
+[11-Oct-2021 11:26:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/impulsa/public_html/desk/php/user/gestiondiaria/val_omni_pendientes.php on line 27
+[12-Oct-2021 08:42:02 UTC] PHP Warning:  mysqli_data_seek() expects parameter 1 to be mysqli_result, boolean given in /home/impulsa/public_html/desk/php/user/gestiondiaria/val_omni_pendientes.php on line 26
+[12-Oct-2021 08:42:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/impulsa/public_html/desk/php/user/gestiondiaria/val_omni_pendientes.php on line 27
+[12-Oct-2021 08:54:28 UTC] PHP Warning:  mysqli_data_seek() expects parameter 1 to be mysqli_result, boolean given in /home/impulsa/public_html/desk/php/user/gestiondiaria/val_omni_pendientes.php on line 26
+[12-Oct-2021 08:54:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/impulsa/public_html/desk/php/user/gestiondiaria/val_omni_pendientes.php on line 27

@@ -1,0 +1,2 @@
+[30-Sep-2020 11:27:45 America/Guayaquil] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/impulsa/public_html/desk/php/conexion_bd.php on line 8
+[30-Sep-2020 11:27:47 America/Guayaquil] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/impulsa/public_html/desk/php/conexion_bd.php on line 8

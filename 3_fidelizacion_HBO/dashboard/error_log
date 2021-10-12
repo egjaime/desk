@@ -1,0 +1,8 @@
+[08-Feb-2020 15:20:21 America/Guayaquil] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/impulsa/public_html/desk/3_fidelizacion_HBO/dashboard/val_dash.php on line 22
+[08-Feb-2020 15:20:21 America/Guayaquil] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/impulsa/public_html/desk/3_fidelizacion_HBO/dashboard/val_dash.php on line 22
+[13-Nov-2020 13:27:13 America/Guayaquil] PHP Warning:  mysqli_data_seek() expects parameter 1 to be mysqli_result, boolean given in /home/impulsa/public_html/desk/3_fidelizacion_HBO/dashboard/val_GrafHBO.php on line 17
+[13-Nov-2020 13:27:13 America/Guayaquil] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/impulsa/public_html/desk/3_fidelizacion_HBO/dashboard/val_GrafHBO.php on line 18
+[13-Nov-2020 13:27:13 America/Guayaquil] PHP Warning:  mysqli_data_seek() expects parameter 1 to be mysqli_result, boolean given in /home/impulsa/public_html/desk/3_fidelizacion_HBO/dashboard/val_Graf2HBO.php on line 54
+[13-Nov-2020 13:27:13 America/Guayaquil] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/impulsa/public_html/desk/3_fidelizacion_HBO/dashboard/val_Graf2HBO.php on line 55
+[13-Nov-2020 13:27:14 America/Guayaquil] PHP Warning:  mysqli_data_seek() expects parameter 1 to be mysqli_result, boolean given in /home/impulsa/public_html/desk/3_fidelizacion_HBO/dashboard/val_dash.php on line 17
+[13-Nov-2020 13:27:14 America/Guayaquil] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/impulsa/public_html/desk/3_fidelizacion_HBO/dashboard/val_dash.php on line 18

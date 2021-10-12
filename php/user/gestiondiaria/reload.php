@@ -1,0 +1,1 @@
+<?php date_default_timezone_set("America/Guayaquil");  echo date("H:i",time());?>
